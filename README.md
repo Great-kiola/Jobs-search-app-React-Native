@@ -10,8 +10,8 @@ to search for jobs from a list of different job platforms that are available on 
 MIT
 
 ## Frameworks used
-React Native
-Jobs search Api
+- React Native 
+- Jobs search Api
 
 ## Deployment
 ----------------------------------------------------------------
