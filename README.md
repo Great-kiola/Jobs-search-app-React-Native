@@ -18,3 +18,10 @@ MIT
 ## Screenshot
 ----------------------------------------------------------------
 
+## Idea
+The idea / Tutorial is from [JavaScript Mastery](https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=1907s)
+
+## Tasks
+- [X] Build React Native
+- [ ] Create Styling
+- [ ] Call Api with Axios 
