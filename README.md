@@ -15,6 +15,17 @@ The idea / Tutorial is from [JavaScript Mastery](https://www.youtube.com/watch?v
 - React Native 
 - Jobs search Api
 
+## Steps I used.
+
+installed the create react native
+Link [](https://expo.github.io/router/docs/);
+
+or
+```
+npx create-expo-app@latest -e with-router ./
+```
+./ to install it into the current repository
+
 ## Deployment
 
 ## Screenshot
