@@ -26,6 +26,18 @@ npx create-expo-app@latest -e with-router ./
 ```
 ./ to install it into the current repository
 
+- Download expo Go, and scan the qr code with your camera
+if it doesnt work at once cancel the  running software with Ctel + c
+Then run the ffg i the terminal
+```
+npm install -g expo-cli
+```
+and then run the application again with
+```
+expo-cli start --tunnel
+```
+
+
 ## Deployment
 
 ## Screenshot
